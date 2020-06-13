@@ -1,0 +1,5 @@
+s=set([1,2,3,3])
+s1=set()
+print(s)
+print(type(s1))
+print(type(s))
